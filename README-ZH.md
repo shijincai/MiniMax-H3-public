@@ -42,6 +42,8 @@
 ### 🎨 MiniMax H3 Image
 [生成与编辑静态图片](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme): 使用文字提示词,或最多 8 张编辑输入图(含原图),每次生成 1–4 张约 4 MP 的 PNG。提交需登录并持有积分,以提交前显示的总报价为准。转视频时需下载 PNG,打开图生视频工具,手动上传为首帧,再核对单独的视频报价。
 
+上传参考照片前，可查看 [minimaxh3.info 的素材保留与删除说明](https://minimaxh3.info/zh/privacy-policy)。按本站隐私政策，用户内容与任务历史最长保留七天，期满后删除或匿名化；如需提前删除，可联系客服。
+
 [陶壶换背景实测教程](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) 包含提示词、编辑前后图片和一段隔离测试生成的视频。镜头推近到片段中段时，壶底被裁出了画面。另一次明确要求透明底的测试返回了不透明 PNG，背景和把手孔内均接近白色。教程里可下载与实测输出像素相同的副本核对。
 
 MiniMax H3 Image 换背景后，瓶身上的字还对吗？在[一次插画瓶换背景实测](https://minimaxh3.info/zh/blog/minimax-h3-image-product-label-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，标签仍可读为 **MICA 27**，但字形边缘和瓶身高光都有变化。教程附实际输入文件和同一位置的局部对照图。

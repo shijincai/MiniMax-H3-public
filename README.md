@@ -42,6 +42,8 @@ Two workflows, one model. Enter a **text-to-video** prompt, or provide a first/l
 ### 🎨 MiniMax H3 Image
 [Generate and edit still images](https://minimaxh3.info/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) from a prompt or up to 8 edit inputs, including the original. Request 1–4 PNGs at about 4 MP per image. Sign in and check the credit total before submitting. To make a video, download the PNG, open Image to Video, and manually upload it as the starting frame; check the separate video quote.
 
+Before uploading a reference photo, see [how minimaxh3.info handles uploads and deletion requests](https://minimaxh3.info/privacy-policy). The policy says user content and task history are kept for up to seven days before deletion or anonymization. You can request earlier deletion through support.
+
 **En español:** [¿Por qué se rechaza un PNG que pesa poco?](https://minimaxh3.info/es-ES/blog/minimax-h3-image-reference-preparation?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) La guía muestra cómo comprobar los megapíxeles y reducir las dimensiones antes de subir la imagen.
 
 The [ceramic jug background-editing walkthrough](https://minimaxh3.info/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) includes the prompt, before/after images, and one completed video test. In the isolated video test, the camera moves close enough to crop the jug's base halfway through the clip. A separate request for a transparent background returned an opaque PNG. The background and the opening inside the handle were both near white. The walkthrough includes a downloadable copy with the same pixels as the tested output.
