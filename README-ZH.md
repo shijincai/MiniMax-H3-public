@@ -42,7 +42,7 @@
 ### 🎨 MiniMax H3 Image
 [生成与编辑静态图片](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme): 使用文字提示词,或最多 8 张编辑输入图(含原图),每次生成 1–4 张约 4 MP 的 PNG。提交需登录并持有积分,以提交前显示的总报价为准。转视频时需下载 PNG,打开图生视频工具,手动上传为首帧,再核对单独的视频报价。
 
-[陶壶换背景实测教程](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) 包含提示词、编辑前后图片和一段隔离测试生成的视频。镜头推近到片段中段时，壶底被裁出了画面。
+[陶壶换背景实测教程](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) 包含提示词、编辑前后图片和一段隔离测试生成的视频。镜头推近到片段中段时，壶底被裁出了画面。另一次明确要求透明底的测试返回了不透明 PNG，背景和把手孔内均接近白色。教程里可下载与实测输出像素相同的副本核对。
 
 把双镜头视频提示词交给 MiniMax H3 Image，会得到什么？在[同一张陶壶参考图的对照实测](https://minimaxh3.info/zh/blog/minimax-h3-image-video-prompt-to-still?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，第一次编辑把两个视图并排画在一起。只要求把手特写时，画面变成了单一近景，但把手换到了壶身另一侧。教程附两次提交的完整提示词和结果图。
 
