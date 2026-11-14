@@ -2,6 +2,8 @@
 
 This helper trims your selected text, shows it for review, and copies it after confirmation. Over 2,000 Unicode code points, it refuses to copy. Shorten your selection and retry. The helper runs on HTTPS top-level pages.
 
+With a userscript manager enabled, [install MiniMax H3 Image Prompt Helper](https://update.greasyfork.org/scripts/605434/MiniMax%20H3%20Image%20Prompt%20Helper.user.js) and confirm the installation in your manager.
+
 ## Use it in three steps
 
 1. Select a passage, then open your userscript manager’s menu and choose **Copy selected prompt**.

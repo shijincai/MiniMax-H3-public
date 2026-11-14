@@ -1,6 +1,8 @@
-# MiniMax H3 Image 提示词采集助手
+# MiniMax H3 Image 提示词复制助手
 
 把网页中选中的一段文字留作图片提示词草稿。助手会去掉选区首尾空白，展示文本供你检查，并在确认后复制。超过2,000个Unicode码点会拒绝复制，请缩短选区后重试。码点数量可能与肉眼看到的字符数不同。助手适用于HTTPS顶层页面。
+
+启用用户脚本管理器后，[安装 MiniMax H3 Image 提示词复制助手](https://update.greasyfork.org/scripts/605434/MiniMax%20H3%20Image%20Prompt%20Helper.user.js)，在管理器中确认安装。
 
 ## 三步操作
 
