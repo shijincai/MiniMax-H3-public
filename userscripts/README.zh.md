@@ -16,6 +16,6 @@ Create one photorealistic interior from these three ordered references.
 
 意思是“按这三张有序参考图创建一张写实室内图”。这只是摘录，完整实测提示词见教程，其中图1为房间、图2为椅子、图3为地毯。
 
-[打开图片工作台](https://minimaxh3.info/zh/minimax-h3-image?utm_source=greasyfork.org&utm_medium=referral&utm_campaign=h3_image_prompt_helper) · [查看三参考图房间教程](https://minimaxh3.info/zh/blog/minimax-h3-image-multiple-references-interior?utm_source=greasyfork.org&utm_medium=referral&utm_campaign=h3_image_prompt_helper)
+[打开图片工作台](https://minimaxh3.info/zh/minimax-h3-image) · [查看三参考图房间教程](https://minimaxh3.info/zh/blog/minimax-h3-image-multiple-references-interior)
 
 助手的本地功能免费，仅负责复制文字。minimaxh3.info的MiniMax H3 Image支持文字生图和最多8张参考图（含原图）的编辑，本站当前设置输出约400万像素PNG。视频工作台支持文字或首帧生成；图片转视频需手动下载图片，再上传为视频首帧。站内生成需要登录，并有足够积分支付当前报价。助手由独立维护者提供，并非MiniMax官方产品。

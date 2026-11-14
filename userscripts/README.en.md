@@ -16,6 +16,6 @@ Create one photorealistic interior from these three ordered references.
 
 This excerpt is not the complete tested prompt. The tutorial assigns the room, chair and rug to Pictures 1, 2 and 3.
 
-[Open the image workspace](https://minimaxh3.info/minimax-h3-image?utm_source=greasyfork.org&utm_medium=referral&utm_campaign=h3_image_prompt_helper) · [Read the three-reference room tutorial](https://minimaxh3.info/blog/minimax-h3-image-multiple-references-interior?utm_source=greasyfork.org&utm_medium=referral&utm_campaign=h3_image_prompt_helper)
+[Open the image workspace](https://minimaxh3.info/minimax-h3-image) · [Read the three-reference room tutorial](https://minimaxh3.info/blog/minimax-h3-image-multiple-references-interior)
 
 The helper’s local features are free; it only copies text. On minimaxh3.info, MiniMax H3 Image supports text-to-image and editing with up to eight references including the original, with roughly 4 MP PNG output under current site settings. The video workspace supports text or a starting frame. To animate an image, manually download it and upload it as the video’s start frame. Site generation requires sign-in and sufficient credits for the current quote. This helper is independently maintained and is not an official MiniMax product.
