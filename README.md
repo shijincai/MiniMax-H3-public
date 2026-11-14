@@ -54,7 +54,7 @@ To specify the viewing direction, we kept the same source, crop dimensions and s
 H3 can generate **dialogue, sound effects and ambience together with the visuals**. Describe the desired sound in the prompt and review the result.
 
 ### 🖼️ First & Last Frame Control
-Attach up to **two reference images** to guide the opening composition and the final frame. Your prompt explains the motion that connects them — useful for product shots, character scenes and branded content.
+Upload your product image as the **first frame**. Add a **last frame** if you have a particular ending in mind. Describe the motion between frames in your prompt. [Watch both original clips from the same ceramic jug image](https://minimaxh3.info/blog/minimax-h3-image-to-video-first-last-frame?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme): both backgrounds turned teal, but the clip given a last frame ended closer to the target image’s brighter wall and visible front edge of the plinth.
 
 ### 🎥 Video Output
 Choose **480P, 720P or 1080P** with 16:9, 9:16, 4:3, 3:4 and 1:1 aspect ratios. Duration depends on resolution: up to 20 seconds at 480P, 15 seconds at 720P, or 10 seconds at 1080P. Check the available settings and credit quote in the workspace.
