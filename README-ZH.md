@@ -46,6 +46,8 @@
 
 把双镜头视频提示词交给 MiniMax H3 Image，会得到什么？在[同一张陶壶参考图的对照实测](https://minimaxh3.info/zh/blog/minimax-h3-image-video-prompt-to-still?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，第一次编辑把两个视图并排画在一起。只要求把手特写时，画面变成了单一近景，但把手换到了壶身另一侧。教程附两次提交的完整提示词和结果图。
 
+想保留商品朝向，可以把观察者看到的位置也写进去。我们沿用同一张参考图、尺寸和种子，在特写提示词末尾加了一句：`Preserve the reference orientation: the jug body is on the left of the frame and its handle extends to the right as seen by the viewer.` 在[这次输出的特写](https://files.minimaxh3.info/assets/blog/minimax-h3-image-video-prompt-to-still/cd276bea8196/handle-orientation.webp)中，把手回到了画面右侧，背景更浅，釉面的高光也更强。这是一次追加生成的结果。
+
 ### 🔈 原生同步音频
 H3 可以**随画面生成对话、音效和环境音**。请在提示词中描述所需声音,并检查生成结果。
 

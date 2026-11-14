@@ -46,6 +46,8 @@ The [ceramic jug background-editing walkthrough](https://minimaxh3.info/blog/min
 
 What happens when you give MiniMax H3 Image a two-shot video prompt? In [our still-image test](https://minimaxh3.info/blog/minimax-h3-image-video-prompt-to-still?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme), the first edit put both views side by side. Asking for just the handle produced one close-up, but the handle appeared on the opposite side of the jug. Both prompts and outputs are included.
 
+To specify the viewing direction, we kept the same source, crop dimensions and seed and appended this sentence to the close-up prompt: `Preserve the reference orientation: the jug body is on the left of the frame and its handle extends to the right as seen by the viewer.` In [the resulting close-up](https://files.minimaxh3.info/assets/blog/minimax-h3-image-video-prompt-to-still/cd276bea8196/handle-orientation.webp), the handle is back on the viewer’s right. The background is lighter and the glaze highlight is stronger. This was one additional generation.
+
 ### 🔈 Native Synchronized Audio
 H3 can generate **dialogue, sound effects and ambience together with the visuals**. Describe the desired sound in the prompt and review the result.
 
