@@ -63,7 +63,7 @@ Upload your product image as the **first frame**. Add a **last frame** if you ha
 ### 🎥 Video Output
 Choose **480P, 720P or 1080P** with 16:9, 9:16, 4:3, 3:4 and 1:1 aspect ratios. Duration depends on resolution: up to 20 seconds at 480P, 15 seconds at 720P, or 10 seconds at 1080P. Check the available settings and credit quote in the workspace.
 
-Planning a five-second clip? [Compare credits for an existing image, a newly generated still, or an edit](https://minimaxh3.info/blog/minimax-h3-video-resolution-credits?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) before choosing a video resolution. The guide breaks out the image and video steps so you can check each workspace quote.
+Before choosing a resolution, [watch the same ceramic jug image animated at 480P, 720P and 1080P](https://minimaxh3.info/blog/minimax-h3-video-resolution-credits?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme#6-what-did-the-same-start-image-produce-at-all-three-settings). Each five-second test used the same start image and prompt. Compare the clips and download the original-size files. Section 5 also shows how to budget for generating or editing your starting image.
 
 ### ⚡ 4-Step Generation
 Write a prompt → add references → pick the format → generate and refine. Stuck for ideas? The built-in **prompt gallery** ships with six ready-made examples you can copy, paste and adapt.
