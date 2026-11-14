@@ -65,6 +65,8 @@ Choose **480P, 720P or 1080P** with 16:9, 9:16, 4:3, 3:4 and 1:1 aspect ratios. 
 
 Before choosing a resolution, [watch the same ceramic jug image animated at 480P, 720P and 1080P](https://minimaxh3.info/blog/minimax-h3-video-resolution-credits?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme#6-what-did-the-same-start-image-produce-at-all-three-settings). Each five-second test used the same start image and prompt. Compare the clips and download the original-size files. Section 5 also shows how to budget for generating or editing your starting image.
 
+If you already have enough credits, you can use your balance. If you need a top-up, the site offers a one-time Starter Pack (USD 9.90 for 500 credits, checked November 15, 2026). At the displayed five-second rates, one pack covers 50 requests at 480P, 25 at 720P, or 12 at 1080P with 20 credits left, assuming one resolution and no other spending.
+
 ### ⚡ 4-Step Generation
 Write a prompt → add references → pick the format → generate and refine. Stuck for ideas? The built-in **prompt gallery** ships with six ready-made examples you can copy, paste and adapt.
 
