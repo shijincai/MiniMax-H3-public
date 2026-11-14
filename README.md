@@ -69,6 +69,8 @@ Before choosing a resolution, [watch the same ceramic jug image animated at 480P
 
 If you already have enough credits, you can use your balance. If you need a top-up, the site offers a one-time Starter Pack (USD 9.90 for 500 credits, checked November 15, 2026). At the displayed five-second rates, one pack covers 50 requests at 480P, 25 at 720P, or 12 at 1080P with 20 credits left, assuming one resolution and no other spending.
 
+**Editing 10 images a month?** At 4 credits per output, 10 requested edits in each of three billing cycles use 120 credits. Starting from zero, with no bonus credits, retries or other use, the USD 9.90 one-time pack leaves 380 credits within its 365-day term. Keeping Basic monthly for all three cycles costs USD 29.70; 560 of its 600 credits expire unused each cycle in this example. [Check current plans](https://minimaxh3.info/pricing).
+
 ### ⚡ 4-Step Generation
 Write a prompt → add references → pick the format → generate and refine. Stuck for ideas? The built-in **prompt gallery** ships with six ready-made examples you can copy, paste and adapt.
 
