@@ -6,28 +6,27 @@
 <h1 align="center">
   <img src="https://minimaxh3.info/favicon.svg" alt="MiniMax H3" width="48" height="48" />
   <br/>
-  MiniMax H3 — Free Online AI Video Generator
+  MiniMax H3 — Online AI Video & Image Workspaces
 </h1>
 
 <p align="center">
-  <strong>Turn text or images into short AI videos with synchronized audio — right in your browser.</strong>
+  <strong>Generate and edit still images with MiniMax H3 Image, or create short videos with synchronized audio — right in your browser.</strong>
 </p>
 
 <p align="center">
-  <a href="https://minimaxh3.info"><strong>🌐 minimaxh3.info</strong></a>
+  <a href="https://minimaxh3.info"><strong>🌐 minimaxh3.info</strong></a> · <a href="https://minimaxh3.info/minimax-h3-image?utm_source=github.com&amp;utm_medium=referral&amp;utm_campaign=h3_image_readme"><strong>Open the image workspace</strong></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
-  <img src="https://img.shields.io/badge/price-free-success" alt="Free" />
 </p>
 
 ---
 
 ## ✨ What Is MiniMax H3?
 
-**MiniMax H3** (also known as **Hailuo 3**) is a **free online AI video generator** powered by MiniMax's open-weights multimodal video model. Describe a scene in plain text, or guide the shot with a start image and an optional end frame — H3 generates a short video clip with **native synchronized audio**: dialogue, sound effects and ambience in a single pass.
+**minimaxh3.info** is an independently operated service for MiniMax H3 video and **MiniMax H3 Image** generation and editing. It is not affiliated with or endorsed by MiniMax, which publishes the models. Describe a scene in plain text, or guide the video with a start image and an optional end frame. H3 supports **synchronized audio**, including dialogue, sound effects and ambience.
 
 No video editing skills, no software to install, no expensive GPUs. Just write a prompt and generate.
 
@@ -38,22 +37,27 @@ No video editing skills, no software to install, no expensive GPUs. Just write a
 ## 🚀 Key Features
 
 ### 🎬 Text & Image to Video
-Two workflows, one model. Enter a **text-to-video** prompt, or provide a first/last-frame image pair for precise **image-to-video** control. The generator is already set to the MiniMax H3 model — write, reference, generate.
+Two workflows, one model. Enter a **text-to-video** prompt, or provide a first/last-frame image pair to guide **image-to-video** generation. The generator is already set to the MiniMax H3 model — write, reference, generate.
+
+### 🎨 MiniMax H3 Image
+[Generate and edit still images](https://minimaxh3.info/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) from a prompt or up to 8 edit inputs, including the original. Request 1–4 PNGs at about 4 MP per image. Sign in and check the credit total before submitting. To make a video, download the PNG, open Image to Video, and manually upload it as the starting frame; check the separate video quote.
+
+The [ceramic jug background-editing walkthrough](https://minimaxh3.info/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) includes the prompt, before/after images, and one completed video test. In the isolated video test, the camera moves close enough to crop the jug's base halfway through the clip.
 
 ### 🔈 Native Synchronized Audio
-H3 doesn't just move pixels — it generates **dialogue, sound effects and ambience in the same pass** as the visuals. Every clip comes out with cinematic, synchronized audio, no post-production step needed.
+H3 can generate **dialogue, sound effects and ambience together with the visuals**. Describe the desired sound in the prompt and review the result.
 
 ### 🖼️ First & Last Frame Control
-Attach up to **two reference images** to lock the opening composition and the final frame. Your prompt explains the motion that connects them — ideal for product shots, character scenes and branded content.
+Attach up to **two reference images** to guide the opening composition and the final frame. Your prompt explains the motion that connects them — useful for product shots, character scenes and branded content.
 
-### 🎥 Pro-Grade Output
-Choose **480P, 720P or 1080P** with 16:9, 9:16, 4:3, 3:4 and 1:1 aspect ratios, and 5, 10 or 15-second clips — everything you need for Shorts, Reels and TikTok-ready storytelling. (The underlying H3 model natively outputs 2K at 24 fps.)
+### 🎥 Video Output
+Choose **480P, 720P or 1080P** with 16:9, 9:16, 4:3, 3:4 and 1:1 aspect ratios. Duration depends on resolution: up to 20 seconds at 480P, 15 seconds at 720P, or 10 seconds at 1080P. Check the available settings and credit quote in the workspace.
 
 ### ⚡ 4-Step Generation
 Write a prompt → add references → pick the format → generate and refine. Stuck for ideas? The built-in **prompt gallery** ships with six ready-made examples you can copy, paste and adapt.
 
-### 🔑 20 Free Credits on Signup
-New accounts receive **20 credits** — enough for two default 480P, 5-second generations. No credit card required.
+### 🔑 Trial Credits for Eligible Accounts
+Eligible new accounts may receive **20 trial credits**. Region and email eligibility restrictions apply; the amount actually credited and the current workspace quote determine what can be generated.
 
 ---
 
@@ -74,21 +78,14 @@ New accounts receive **20 credits** — enough for two default 480P, 5-second ge
 
 1. **Write a prompt** — Describe the subject, camera movement, lighting and mood (up to 600 characters in the generator)
 2. **Add references (optional)** — Attach up to two first/last-frame images to control the composition
-3. **Choose the format** — Pick 5, 10 or 15 seconds and one of five aspect ratios, plus 480P/720P/1080P resolution
+3. **Choose the format** — Pick a duration available for your resolution and one of five aspect ratios, plus 480P/720P/1080P resolution; check the credit quote
 4. **Generate and refine** — Review the result, revise the prompt and generate again until it's right
 
 ---
 
-## 🆚 MiniMax H3 vs Hailuo 2.3
+## 🆚 Model and Workspace Limits
 
-| Capability | MiniMax H3 | Hailuo 2.3 |
-|------------|------------|------------|
-| Maximum resolution | Native 2K | 1080P |
-| Maximum length | 15 seconds | 10 seconds |
-| Native audio | ✅ Yes | ❌ No |
-| Reference inputs | Images + video + audio | First frame only |
-| Prompt limit | 7,000 characters | 2,000 characters |
-| Weights | Open | Closed API |
+MiniMax publishes H3-Base checkpoints; its model documentation distinguishes 768p base output from the separate H3-Regenerate-2K workflow. This site offers 480P/720P/1080P video and up to two first/last-frame images, not full multimodal reference or the official 2K workflow. Likewise, this site's MiniMax H3 Image settings are about 4 MP and up to 8 edit inputs, distinct from the official model/API's higher settings.
 
 ---
 
@@ -98,10 +95,10 @@ New accounts receive **20 credits** — enough for two default 480P, 5-second ge
 |--------|---------|
 | Resolution | 480P / 720P / 1080P |
 | Aspect Ratios | 16:9 · 9:16 · 4:3 · 3:4 · 1:1 |
-| Clip Length | 5 / 10 / 15 seconds |
+| Clip Length | Up to 20s at 480P / 15s at 720P / 10s at 1080P |
 | Input | Text prompt, first frame, first + last frames |
 | Audio | Native synchronized (dialogue, effects, ambience) |
-| Free Credits | 20 on signup |
+| Trial Credits | Eligible new accounts may receive 20; restrictions apply |
 
 ---
 
@@ -115,13 +112,16 @@ MiniMax H3 runs entirely in the browser and works on desktop, tablet and mobile 
 
 - **Website:** [https://minimaxh3.info](https://minimaxh3.info)
 - **Try MiniMax H3:** [https://minimaxh3.info](https://minimaxh3.info)
-- **Related tools:** [Video Upscaler](https://minimaxh3.info), [Video Face Swap](https://minimaxh3.info), [AI Image Generator](https://minimaxh3.info)
+- **MiniMax H3 Image:** [Image generator and editor](https://minimaxh3.info/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)
+- **Tested guide:** [Ceramic jug background edit and video test](https://minimaxh3.info/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)
+- **Video Upscaler:** [Open the upscaler](https://minimaxh3.info/video-upscaler)
 
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License.
+This repository's license does not grant rights to model weights, website services, generated outputs, or third-party assets; their respective terms apply.
 
 ---
 

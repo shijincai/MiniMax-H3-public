@@ -6,28 +6,27 @@
 <h1 align="center">
   <img src="https://minimaxh3.info/favicon.svg" alt="MiniMax H3" width="48" height="48" />
   <br/>
-  MiniMax H3 — 免费在线AI视频生成器
+  MiniMax H3 — 在线AI视频与图片工作台
 </h1>
 
 <p align="center">
-  <strong>用文字或图片生成带同步音频的短视频 — 全部在浏览器中完成。</strong>
+  <strong>使用 MiniMax H3 Image 生成与编辑静态图片,或创作带同步音频的短视频 — 全部在浏览器中完成。</strong>
 </p>
 
 <p align="center">
-  <a href="https://minimaxh3.info"><strong>🌐 minimaxh3.info</strong></a>
+  <a href="https://minimaxh3.info"><strong>🌐 minimaxh3.info</strong></a> · <a href="https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&amp;utm_medium=referral&amp;utm_campaign=h3_image_readme"><strong>打开图片工作台</strong></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/状态-在线-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/许可-MIT-blue" alt="License" />
-  <img src="https://img.shields.io/badge/价格-免费-success" alt="Free" />
 </p>
 
 ---
 
 ## ✨ 什么是 MiniMax H3？
 
-**MiniMax H3**(又名 **Hailuo 3**)是一款**免费在线AI视频生成器**,基于 MiniMax 开源的通用多模态视频模型。只需用自然语言描述场景,或用起始帧图片引导镜头(可附加尾帧),H3 即可生成带**原生同步音频**的短视频 — 对话、音效和环境音一次生成,无需任何后期步骤。
+**minimaxh3.info** 是独立运营的 MiniMax H3 视频与 **MiniMax H3 Image** 图片生成、编辑服务,与模型发布方 MiniMax 无关联,也未获其背书。用自然语言描述场景,或用起始帧图片引导视频(可附加尾帧)。H3 支持**同步音频**,包括对话、音效和环境音。
 
 无需视频剪辑技能、无需安装软件、无需昂贵显卡。写下提示词,即可生成。
 
@@ -38,22 +37,27 @@
 ## 🚀 核心功能
 
 ### 🎬 文字/图片生成视频
-两种工作流,同一模型。使用**文字生成视频**提示词,或提供首帧/尾帧图片对实现精准的**图片生成视频**控制。生成器默认已选择 MiniMax H3 模型 — 写提示、加参考、点生成。
+两种工作流,同一模型。使用**文字生成视频**提示词,或提供首帧/尾帧图片对引导**图片生成视频**。生成器默认已选择 MiniMax H3 模型 — 写提示、加参考、点生成。
+
+### 🎨 MiniMax H3 Image
+[生成与编辑静态图片](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme): 使用文字提示词,或最多 8 张编辑输入图(含原图),每次生成 1–4 张约 4 MP 的 PNG。提交需登录并持有积分,以提交前显示的总报价为准。转视频时需下载 PNG,打开图生视频工具,手动上传为首帧,再核对单独的视频报价。
+
+[陶壶换背景实测教程](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) 包含提示词、编辑前后图片和一段隔离测试生成的视频。镜头推近到片段中段时，壶底被裁出了画面。
 
 ### 🔈 原生同步音频
-H3 不只是让画面动起来 — 它会在生成画面的**同一流程中生成对话、音效和环境音**。每个片段都自带电影级同步音频,无需额外后期步骤。
+H3 可以**随画面生成对话、音效和环境音**。请在提示词中描述所需声音,并检查生成结果。
 
 ### 🖼️ 首帧与尾帧控制
-可附加**最多两张参考图片**,锁定开场构图和最终画面。提示词说明连接两帧之间的运动 — 非常适合产品镜头、角色场景和品牌内容。
+可附加**最多两张参考图片**,引导开场构图和最终画面。提示词说明连接两帧之间的运动 — 可用于产品镜头、角色场景和品牌内容。
 
-### 🎥 专业级输出
-提供 **480P、720P 和 1080P**,支持 16:9、9:16、4:3、3:4 和 1:1 多种比例,以及 5、10、15 秒片段 — 满足 Shorts、Reels 和 TikTok 竖屏短视频需求。(底层 H3 模型原生输出 2K @ 24fps。)
+### 🎥 视频输出设置
+提供 **480P、720P 和 1080P**,支持 16:9、9:16、4:3、3:4 和 1:1 多种比例。时长随分辨率变化: 480P 最长 20 秒、720P 最长 15 秒、1080P 最长 10 秒。请在工作台核对可用设置与积分报价。
 
 ### ⚡ 4步生成流程
 写提示词 → 添加参考 → 选择格式 → 生成并优化。没有灵感?内置**提示词画廊**提供六个现成示例,可复制粘贴后自行调整。
 
-### 🔑 注册送 20 积分
-新账号赠送 **20 积分** — 足够生成两个默认的 480P 5秒片段。无需绑定信用卡。
+### 🔑 符合条件账号的试用积分
+符合条件的新账号可能获得 **20 试用积分**,受地区和邮箱资格限制;可生成的内容以实际到账积分与工作台当前报价为准。
 
 ---
 
@@ -74,21 +78,14 @@ H3 不只是让画面动起来 — 它会在生成画面的**同一流程中生�
 
 1. **写提示词** — 描述主体、镜头运动、光线和氛围(生成器中最多600字符)
 2. **添加参考(可选)** — 附加最多两张首帧/尾帧图片控制构图
-3. **选择格式** — 选择5/10/15秒时长、五种画面比例和480P/720P/1080P分辨率
+3. **选择格式** — 选择当前分辨率可用的时长、五种画面比例和480P/720P/1080P分辨率,并核对积分报价
 4. **生成并优化** — 查看结果、修改提示词,再次生成直到满意
 
 ---
 
-## 🆚 MiniMax H3 对比 Hailuo 2.3
+## 🆚 模型与工作台边界
 
-| 能力 | MiniMax H3 | Hailuo 2.3 |
-|------|------------|------------|
-| 最高分辨率 | 原生 2K | 1080P |
-| 最大时长 | 15秒 | 10秒 |
-| 原生音频 | ✅ 支持 | ❌ 不支持 |
-| 参考输入 | 图片 + 视频 + 音频 | 仅首帧 |
-| 提示词上限 | 7,000字符 | 2,000字符 |
-| 权重 | 开源 | 封闭 API |
+MiniMax 发布 H3-Base 权重,模型文档区分 768p 基础输出与单独的 H3-Regenerate-2K 工作流。本站提供 480P/720P/1080P 视频与最多两张首尾帧图片,不提供完整多模态参考或官方 2K 工作流。同样,本站 MiniMax H3 Image 的约 4 MP 输出和最多 8 张编辑输入图属于本站设置,不同于官方模型/API 的更高配置。
 
 ---
 
@@ -98,10 +95,10 @@ H3 不只是让画面动起来 — 它会在生成画面的**同一流程中生�
 |------|------|
 | 分辨率 | 480P / 720P / 1080P |
 | 画面比例 | 16:9 · 9:16 · 4:3 · 3:4 · 1:1 |
-| 片段时长 | 5 / 10 / 15 秒 |
+| 片段时长 | 480P 最长 20 秒 / 720P 最长 15 秒 / 1080P 最长 10 秒 |
 | 输入方式 | 文字提示、首帧、首帧+尾帧 |
 | 音频 | 原生同步(对话、音效、环境音) |
-| 免费积分 | 注册赠送 20 积分 |
+| 试用积分 | 符合条件的新账号可能获得 20 积分,有资格限制 |
 
 ---
 
@@ -113,15 +110,18 @@ MiniMax H3 完全在浏览器中运行,支持桌面、平板和手机 — 无需
 
 ## 🔗 链接
 
-- **官方网站:** [https://minimaxh3.info](https://minimaxh3.info)
+- **服务网站:** [https://minimaxh3.info](https://minimaxh3.info)
 - **立即体验:** [https://minimaxh3.info](https://minimaxh3.info)
-- **相关工具:** [视频增强](https://minimaxh3.info)、[视频换脸](https://minimaxh3.info)、[AI图片生成](https://minimaxh3.info)
+- **MiniMax H3 Image:** [图片生成与编辑](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)
+- **实测教程:** [陶壶换背景与视频测试](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)
+- **视频增强：** [打开视频增强工具](https://minimaxh3.info/zh/video-upscaler)
 
 ---
 
 ## 📄 许可协议
 
 本项目基于 MIT 许可证发布。
+本仓库许可证不授予模型权重、网站服务、生成结果或第三方素材的使用权;这些内容分别适用各自条款。
 
 ---
 
