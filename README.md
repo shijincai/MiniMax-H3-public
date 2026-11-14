@@ -44,6 +44,8 @@ Two workflows, one model. Enter a **text-to-video** prompt, or provide a first/l
 
 The [ceramic jug background-editing walkthrough](https://minimaxh3.info/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) includes the prompt, before/after images, and one completed video test. In the isolated video test, the camera moves close enough to crop the jug's base halfway through the clip.
 
+What happens when you give MiniMax H3 Image a two-shot video prompt? In [our still-image test](https://minimaxh3.info/blog/minimax-h3-image-video-prompt-to-still?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme), the first edit put both views side by side. Asking for just the handle produced one close-up, but the handle appeared on the opposite side of the jug. Both prompts and outputs are included.
+
 ### 🔈 Native Synchronized Audio
 H3 can generate **dialogue, sound effects and ambience together with the visuals**. Describe the desired sound in the prompt and review the result.
 
