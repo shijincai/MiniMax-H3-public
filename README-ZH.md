@@ -48,6 +48,8 @@
 
 想保留商品朝向，可以把观察者看到的位置也写进去。我们沿用同一张参考图、尺寸和种子，在特写提示词末尾加了一句：`Preserve the reference orientation: the jug body is on the left of the frame and its handle extends to the right as seen by the viewer.` 在[这次输出的特写](https://files.minimaxh3.info/assets/blog/minimax-h3-image-video-prompt-to-still/cd276bea8196/handle-orientation.webp)中，把手回到了画面右侧，背景更浅，釉面的高光也更强。这是一次追加生成的结果。
 
+<a href="https://minimaxh3.info/zh/blog/minimax-h3-image-video-prompt-to-still?utm_source=github.com&amp;utm_medium=referral&amp;utm_campaign=h3_image_readme"><img src="https://files.minimaxh3.info/assets/blog/minimax-h3-image-video-prompt-to-still/cd276bea8196/handle-orientation.webp" alt="打开双提示词对照教程。追加生成的红釉陶壶特写中，把手位于观察者右侧。" width="480"></a>
+
 ### 🔈 原生同步音频
 H3 可以**随画面生成对话、音效和环境音**。请在提示词中描述所需声音,并检查生成结果。
 
