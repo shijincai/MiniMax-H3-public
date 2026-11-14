@@ -44,6 +44,8 @@
 
 [陶壶换背景实测教程](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) 包含提示词、编辑前后图片和一段隔离测试生成的视频。镜头推近到片段中段时，壶底被裁出了画面。另一次明确要求透明底的测试返回了不透明 PNG，背景和把手孔内均接近白色。教程里可下载与实测输出像素相同的副本核对。
 
+MiniMax H3 Image 换背景后，瓶身上的字还对吗？在[一次插画瓶换背景实测](https://minimaxh3.info/zh/blog/minimax-h3-image-product-label-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，标签仍可读为 **MICA 27**，但字形边缘和瓶身高光都有变化。教程附实际输入文件和同一位置的局部对照图。
+
 把双镜头视频提示词交给 MiniMax H3 Image，会得到什么？在[同一张陶壶参考图的对照实测](https://minimaxh3.info/zh/blog/minimax-h3-image-video-prompt-to-still?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，第一次编辑把两个视图并排画在一起。只要求把手特写时，画面变成了单一近景，但把手换到了壶身另一侧。教程附两次提交的完整提示词和结果图。
 
 想保留商品朝向，可以把观察者看到的位置也写进去。我们沿用同一张参考图、尺寸和种子，在特写提示词末尾加了一句：`Preserve the reference orientation: the jug body is on the left of the frame and its handle extends to the right as seen by the viewer.` 在[这次输出的特写](https://files.minimaxh3.info/assets/blog/minimax-h3-image-video-prompt-to-still/cd276bea8196/handle-orientation.webp)中，把手回到了画面右侧，背景更浅，釉面的高光也更强。这是一次追加生成的结果。
