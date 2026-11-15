@@ -44,7 +44,7 @@
 
 上传参考照片前，可查看 [minimaxh3.info 的素材保留与删除说明](https://minimaxh3.info/zh/privacy-policy)。按本站隐私政策，用户内容与任务历史最长保留七天，期满后删除或匿名化；如需提前删除，可联系客服。
 
-[陶壶换背景实测教程](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) 包含提示词、编辑前后图片和一段隔离测试生成的视频。镜头推近到片段中段时，壶底被裁出了画面。另一次明确要求透明底的测试返回了不透明 PNG，背景和把手孔内均接近白色。教程里可下载与实测输出像素相同的副本核对。
+[陶壶换背景实测教程](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) 包含提示词、编辑前后图片和一段隔离测试生成的视频。镜头推近到片段中段时，壶底被裁出了画面。另一次明确要求透明底的测试返回了不透明 PNG，背景和把手孔内均接近白色。[下载原 PNG 和单独用 FFmpeg 处理的透明 PNG 作对照](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=white_background_cutout#white-background-cutout)。处理后把手孔能透出底色，但孔边仍有细亮边，壶口高光也有 5 个像素被完全去掉。
 
 MiniMax H3 Image 换背景后，瓶身上的字还对吗？在[一次插画瓶换背景实测](https://minimaxh3.info/zh/blog/minimax-h3-image-product-label-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，标签仍可读为 **MICA 27**，但字形边缘和瓶身高光都有变化。要试另一种配色，可以[打开 MICA 27 青绿色瓶身样例](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=product_recolor#h3-example-product-recolor)，点击样例按钮，把同一张瓶图和实测提示词载入单张编辑草稿。
 
