@@ -40,7 +40,7 @@
 两种工作流,同一模型。使用**文字生成视频**提示词,或提供首帧/尾帧图片对引导**图片生成视频**。生成器默认已选择 MiniMax H3 模型 — 写提示、加参考、点生成。
 
 ### 🎨 MiniMax H3 Image
-[生成与编辑静态图片](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme): 使用文字提示词,或最多 8 张编辑输入图(含原图),每次生成 1–4 张约 4 MP 的 PNG。提交需登录并持有积分,以提交前显示的总报价为准。转视频时需下载 PNG,打开图生视频工具,手动上传为首帧,再核对单独的视频报价。
+[生成与编辑静态图片](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme): 使用文字提示词,或最多 8 张编辑输入图(含原图),每次生成 1–4 张约 4 MP 的 PNG。提交需登录并持有积分,以提交前显示的总报价为准。转视频时需下载 PNG,[打开图生视频工具](https://minimaxh3.info/zh?generationMode=image-to-video&utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=image_to_video#generator),手动上传为首帧,再核对单独的视频报价。
 
 上传参考照片前，可查看 [minimaxh3.info 的素材保留与删除说明](https://minimaxh3.info/zh/privacy-policy)。按本站隐私政策，用户内容与任务历史最长保留七天，期满后删除或匿名化；如需提前删除，可联系客服。
 

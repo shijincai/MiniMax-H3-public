@@ -40,7 +40,7 @@ No video editing skills, no software to install, no expensive GPUs. Just write a
 Two workflows, one model. Enter a **text-to-video** prompt, or provide a first/last-frame image pair to guide **image-to-video** generation. The generator is already set to the MiniMax H3 model — write, reference, generate.
 
 ### 🎨 MiniMax H3 Image
-[Generate and edit still images](https://minimaxh3.info/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) from a prompt or up to 8 edit inputs, including the original. Request 1–4 PNGs at about 4 MP per image. Sign in and check the credit total before submitting. To make a video, download the PNG, open Image to Video, and manually upload it as the starting frame; check the separate video quote.
+[Generate and edit still images](https://minimaxh3.info/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) from a prompt or up to 8 edit inputs, including the original. Request 1–4 PNGs at about 4 MP per image. Sign in and check the credit total before submitting. To make a video, download the PNG, [open Image to Video](https://minimaxh3.info/?generationMode=image-to-video&utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=image_to_video#generator), and manually upload it as the starting frame; check the separate video quote.
 
 Before uploading a reference photo, see [how minimaxh3.info handles uploads and deletion requests](https://minimaxh3.info/privacy-policy). The policy says user content and task history are kept for up to seven days before deletion or anonymization. You can request earlier deletion through support.
 
