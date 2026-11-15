@@ -83,7 +83,7 @@ Eligible new accounts may receive **20 trial credits**. Region and email eligibi
 
 | Use Case | Description |
 |----------|-------------|
-| 🎮 **Game Content** | Cinematics, character PVs and animated UI concepts with stable visual identity |
+| 🎮 **Game Content** | Cinematics, character promos and animated UI concepts. For a solo turn, [compare two clips made from the same MiniMax H3 Image character sheet](https://minimaxh3.info/blog/minimax-h3-image-character-sheet?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme#turnaround-video). The middle figure in the full sheet turned too. |
 | 🎨 **Stylized Animation** | Clay, pixel art, anime and 3D fantasy with a consistent look across shots |
 | 📦 **Product Video** | Turn product stills into demonstrations, explainers and campaign concepts |
 | 📢 **Advertising** | Short-form concepts for social, display and connected-TV campaigns |
