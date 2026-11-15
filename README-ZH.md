@@ -138,8 +138,9 @@ MiniMax 发布 H3-Base 权重,模型文档区分 768p 基础输出与单独的 H
 
 ## 📄 许可协议
 
-本项目基于 MIT 许可证发布。
-本仓库许可证不授予模型权重、网站服务、生成结果或第三方素材的使用权;这些内容分别适用各自条款。
+本仓库的软件与文档采用 MIT 许可证。模型权重、网站服务、生成结果（含链接中的示例）及第三方素材均不在其授权范围内。
+
+使用本站制作图片或视频时，可查阅[服务条款](https://minimaxh3.info/zh/terms-of-service)第 8、9 节，了解输入素材、生成结果和第三方授权的约定。图片和视频模型有各自的社区许可。使用或托管模型前，请查阅对应的 [MiniMax H3 Image 图片模型许可](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/blob/main/LICENSE)和 [MiniMax H3 视频模型许可](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/LICENSE)。
 
 ---
 

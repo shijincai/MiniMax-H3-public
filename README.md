@@ -140,8 +140,9 @@ To run still images locally in ComfyUI, choose the workflow for your input. Down
 
 ## 📄 License
 
-This project is licensed under the MIT License.
-This repository's license does not grant rights to model weights, website services, generated outputs, or third-party assets; their respective terms apply.
+The MIT License covers the software and documentation in this repository. It grants no rights to model weights, the service, generated outputs (including linked examples), or third-party assets.
+
+For work created with this website, see sections 8 and 9 of the [service terms](https://minimaxh3.info/terms-of-service) for how inputs, outputs and third-party permissions are handled. The image and video models have separate community licenses. Before using or hosting either model, consult the applicable license for [MiniMax H3 Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/blob/main/LICENSE) and [MiniMax H3 video](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/LICENSE).
 
 ---
 
