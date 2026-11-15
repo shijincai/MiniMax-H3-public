@@ -84,7 +84,7 @@ H3 可以**随画面生成对话、音效和环境音**。请在提示词中描�
 | 🎮 **游戏内容** | 过场动画、角色宣传片和 UI 动效概念。想让一个角色转身，可以[对照同一张 MiniMax H3 Image 设定图做出的两段视频](https://minimaxh3.info/zh/blog/minimax-h3-image-character-sheet?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme#turnaround-video)。用完整三视图作首帧时，中间的人物也跟着转了。 |
 | 🎨 **风格化动画** | 黏土、像素、动漫、3D奇幻,跨镜头保持统一风格 |
 | 📦 **产品视频** | 将产品静态图转化为演示、讲解和营销概念视频 |
-| 📢 **广告投放** | 适配社交媒体、展示广告和智能电视广告的短视频创意 |
+| 📢 **广告投放** | 适配社交媒体、展示广告和智能电视广告的短视频创意。这次用 MiniMax H3 Image 把 NIGHT SIGNAL 换成「夜间信号」，四个字都在画内，两侧留白偏窄。[对照英文海报与中文改字结果](https://minimaxh3.info/zh/blog/minimax-h3-image-poster-text?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=poster_headline)。 |
 | 🎬 **影视制作** | 预告片、品牌影片、短剧,带镜头语言和声音设计 |
 | 📱 **短视频社交** | 为 Shorts、Reels 和 TikTok 创作的竖屏故事视频 |
 

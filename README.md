@@ -86,7 +86,7 @@ Eligible new accounts may receive **20 trial credits**. Region and email eligibi
 | 🎮 **Game Content** | Cinematics, character promos and animated UI concepts. For a solo turn, [compare two clips made from the same MiniMax H3 Image character sheet](https://minimaxh3.info/blog/minimax-h3-image-character-sheet?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme#turnaround-video). The middle figure in the full sheet turned too. |
 | 🎨 **Stylized Animation** | Clay, pixel art, anime and 3D fantasy with a consistent look across shots |
 | 📦 **Product Video** | Turn product stills into demonstrations, explainers and campaign concepts |
-| 📢 **Advertising** | Short-form concepts for social, display and connected-TV campaigns |
+| 📢 **Advertising** | Short-form concepts for social, display and connected-TV campaigns. In one MiniMax H3 Image edit, NIGHT SIGNAL became 夜间信号. All four characters fit, with little room at the edges. [Compare the original poster and the Chinese headline edit](https://minimaxh3.info/blog/minimax-h3-image-poster-text?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=poster_headline). |
 | 🎬 **Filmmaking** | Trailers, brand films and short drama with camera language and sound |
 | 📱 **Short-Form Social** | Portrait clips for Shorts, Reels and TikTok-ready storytelling |
 
