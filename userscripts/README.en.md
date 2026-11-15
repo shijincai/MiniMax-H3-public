@@ -6,9 +6,9 @@ With a userscript manager enabled, [install MiniMax H3 Image Prompt Helper](http
 
 ## Use it in three steps
 
-1. Select a passage, then open your userscript manager’s menu and choose **Copy selected prompt**.
+1. Select a passage, then open your userscript manager’s menu and choose **Copy selected prompt**. In a Chinese-language browser the same command is **复制选中的提示词**.
 2. Review the trimmed text. If it exceeds the limit, select a shorter passage and reopen the menu command.
-3. Confirm copying. Open your image workspace and paste the text yourself, then adapt it to your task.
+3. Confirm, then paste into the workspace and check the text before generating. Pasting also lets you check the clipboard if your manager shows no “Prompt copied” message.
 
 For example, this short excerpt comes from our documented three-reference room tutorial:
 
@@ -16,8 +16,8 @@ For example, this short excerpt comes from our documented three-reference room t
 Create one photorealistic interior from these three ordered references.
 ```
 
-This excerpt is not the complete tested prompt. The tutorial assigns the room, chair and rug to Pictures 1, 2 and 3.
+To repeat the edit, open the tutorial for the complete prompt. In **Edit Image**, use the room as Picture 1, the chair as Picture 2 and the rug as Picture 3. The tutorial also links to a workspace example that can load all three.
 
-[Open the image workspace](https://minimaxh3.info/minimax-h3-image) · [Read the three-reference room tutorial](https://minimaxh3.info/blog/minimax-h3-image-multiple-references-interior)
+[Open the image workspace](https://minimaxh3.info/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_helper_docs#image-workspace) · [Read the three-reference room tutorial](https://minimaxh3.info/blog/minimax-h3-image-multiple-references-interior?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_helper_docs)
 
 The helper’s local features are free; it only copies text. On minimaxh3.info, MiniMax H3 Image supports text-to-image and editing with up to eight references including the original, with roughly 4 MP PNG output under current site settings. The video workspace supports text or a starting frame. To animate an image, manually download it and upload it as the video’s start frame. Site generation requires sign-in and sufficient credits for the current quote. This helper is independently maintained and is not an official MiniMax product.
