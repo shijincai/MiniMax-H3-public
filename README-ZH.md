@@ -61,7 +61,7 @@ H3 可以**随画面生成对话、音效和环境音**。请在提示词中描�
 把商品图上传为**首帧**；如果结尾已有目标构图，再加一张**尾帧**，用提示词描述两帧之间的运动。[看同一张陶壶图生成的两段原片](https://minimaxh3.info/zh/blog/minimax-h3-image-to-video-first-last-frame?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)：两段的背景都变成了青绿色，加了尾帧的那段在墙面亮度和台座前沿这两处更接近目标图。
 
 ### 🎥 视频输出设置
-提供 **480P、720P 和 1080P**,支持 16:9、9:16、4:3、3:4 和 1:1 多种比例。时长随分辨率变化: 480P 最长 20 秒、720P 最长 15 秒、1080P 最长 10 秒。请在工作台核对可用设置与积分报价。
+提供 **480P、720P 和 1080P**,支持 16:9、9:16、4:3、3:4 和 1:1 多种比例。时长随分辨率变化: 480P 最长 20 秒、720P 最长 15 秒、1080P 最长 10 秒。请在工作台核对可用设置与积分报价。 成片可在账户历史中查看。
 
 选分辨率前，可以先[对照同一张陶壶图在 480P、720P 和 1080P 下生成的三段视频](https://minimaxh3.info/zh/blog/minimax-h3-video-resolution-credits?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme#6-同一首帧生成三档视频实际得到什么)。三档都请求了五秒，使用相同首帧和提示词。可直接播放预览，也可下载原分辨率文件。若还需要生成或编辑首帧，第 5 节列出了对应的积分预算。
 
@@ -118,9 +118,11 @@ MiniMax 发布 H3-Base 权重,模型文档区分 768p 基础输出与单独的 H
 
 ---
 
-## 📱 全设备可用
+## 使用 MiniMax H3 Image 需要安装 ComfyUI 吗？
 
-MiniMax H3 完全在浏览器中运行,支持桌面、平板和手机 — 无需下载App、无需安装。生成的视频保存在账户历史中,可以离开页面,稍后回来查看完成结果。
+不需要。[图片工作台](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=comfyui_workflow)在服务器上生成图片。用电脑、平板或手机登录，输入提示词或上传照片，提交前查看积分报价。
+
+如果要在本地 ComfyUI 生成静图，按手头的素材选工作流。只有提示词时，下载[文生图 JSON](https://github.com/Comfy-Org/workflow_templates/blob/79b02f4a79e233c07ec4923e39f40be27448549d/templates/image_minimax_h3_image_t2i.json)。要修改已有图片时，下载[图片编辑 JSON](https://github.com/Comfy-Org/workflow_templates/blob/79b02f4a79e233c07ec4923e39f40be27448549d/templates/image_minimax_h3_image_edit.json)。在 GitHub 文件页点击 **Download raw file**，然后在 ComfyUI 中打开保存的 JSON。使用编辑工作流时，在 `Load Image` 节点选择自己的照片，它会作为 `<Picture 1>` 输入。所需模型文件与存放目录见 [ComfyUI 官方设置指南](https://docs.comfy.org/tutorials/image/minimax/minimax-h3-image)。
 
 ---
 

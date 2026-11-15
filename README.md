@@ -63,7 +63,7 @@ H3 can generate **dialogue, sound effects and ambience together with the visuals
 Upload your product image as the **first frame**. Add a **last frame** if you have a particular ending in mind. Describe the motion between frames in your prompt. [Watch both original clips from the same ceramic jug image](https://minimaxh3.info/blog/minimax-h3-image-to-video-first-last-frame?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme): both backgrounds turned teal, but the clip given a last frame ended closer to the target image’s brighter wall and visible front edge of the plinth.
 
 ### 🎥 Video Output
-Choose **480P, 720P or 1080P** with 16:9, 9:16, 4:3, 3:4 and 1:1 aspect ratios. Duration depends on resolution: up to 20 seconds at 480P, 15 seconds at 720P, or 10 seconds at 1080P. Check the available settings and credit quote in the workspace.
+Choose **480P, 720P or 1080P** with 16:9, 9:16, 4:3, 3:4 and 1:1 aspect ratios. Duration depends on resolution: up to 20 seconds at 480P, 15 seconds at 720P, or 10 seconds at 1080P. Check the available settings and credit quote in the workspace. You can return to your account history to view a finished clip.
 
 Before choosing a resolution, [watch the same ceramic jug image animated at 480P, 720P and 1080P](https://minimaxh3.info/blog/minimax-h3-video-resolution-credits?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme#6-what-did-the-same-start-image-produce-at-all-three-settings). Each five-second test used the same start image and prompt. Compare the clips and download the original-size files. Section 5 also shows how to budget for generating or editing your starting image.
 
@@ -120,9 +120,11 @@ MiniMax publishes H3-Base checkpoints; its model documentation distinguishes 768
 
 ---
 
-## 📱 Works Everywhere
+## Do I need ComfyUI for MiniMax H3 Image?
 
-MiniMax H3 runs entirely in the browser and works on desktop, tablet and mobile — no app download, no installation. Generated videos are saved to your account history, so you can leave the page and come back for the finished clip.
+No. The [image workspace](https://minimaxh3.info/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=comfyui_workflow) runs generation on the server. On desktop, tablet or phone, sign in, enter a prompt or upload your photo, and check the credit quote.
+
+To run still images locally in ComfyUI, choose the workflow for your input. Download the [Text to Image JSON](https://github.com/Comfy-Org/workflow_templates/blob/79b02f4a79e233c07ec4923e39f40be27448549d/templates/image_minimax_h3_image_t2i.json) to start from a prompt. To change an existing image, download the [Image Edit JSON](https://github.com/Comfy-Org/workflow_templates/blob/79b02f4a79e233c07ec4923e39f40be27448549d/templates/image_minimax_h3_image_edit.json) instead. On the GitHub file page, choose **Download raw file**, then open the saved JSON in ComfyUI. In the editing graph, select your photo in `Load Image` to use it as `<Picture 1>`. The [ComfyUI setup guide](https://docs.comfy.org/tutorials/image/minimax/minimax-h3-image) lists the required model files and folders.
 
 ---
 
