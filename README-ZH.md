@@ -131,6 +131,7 @@ MiniMax 发布 H3-Base 权重,模型文档区分 768p 基础输出与单独的 H
 - **服务网站:** [https://minimaxh3.info](https://minimaxh3.info)
 - **立即体验:** [https://minimaxh3.info](https://minimaxh3.info)
 - **MiniMax H3 Image:** [图片生成与编辑](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)
+- [用可选的浏览器脚本复制网页上选中的 MiniMax H3 Image 提示词](./userscripts/README.zh.md)，再跟着手册里的三张参考图示例布置房间。
 - **实测教程:** [陶壶换背景与视频测试](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)
 - **视频增强：** [打开视频增强工具](https://minimaxh3.info/zh/video-upscaler)
 

@@ -133,6 +133,7 @@ To run still images locally in ComfyUI, choose the workflow for your input. Down
 - **Website:** [https://minimaxh3.info](https://minimaxh3.info)
 - **Try MiniMax H3:** [https://minimaxh3.info](https://minimaxh3.info)
 - **MiniMax H3 Image:** [Image generator and editor](https://minimaxh3.info/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)
+- [Copy a MiniMax H3 Image prompt from a webpage](./userscripts/README.en.md) with the optional userscript. The guide includes a three-reference room edit.
 - **Tested guide:** [Ceramic jug background edit and video test](https://minimaxh3.info/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)
 - **Video Upscaler:** [Open the upscaler](https://minimaxh3.info/video-upscaler)
 
