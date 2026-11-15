@@ -46,7 +46,7 @@
 
 [陶壶换背景实测教程](https://minimaxh3.info/zh/blog/minimax-h3-image-product-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme) 包含提示词、编辑前后图片和一段隔离测试生成的视频。镜头推近到片段中段时，壶底被裁出了画面。另一次明确要求透明底的测试返回了不透明 PNG，背景和把手孔内均接近白色。教程里可下载与实测输出像素相同的副本核对。
 
-MiniMax H3 Image 换背景后，瓶身上的字还对吗？在[一次插画瓶换背景实测](https://minimaxh3.info/zh/blog/minimax-h3-image-product-label-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，标签仍可读为 **MICA 27**，但字形边缘和瓶身高光都有变化。教程附实际输入文件和同一位置的局部对照图。
+MiniMax H3 Image 换背景后，瓶身上的字还对吗？在[一次插画瓶换背景实测](https://minimaxh3.info/zh/blog/minimax-h3-image-product-label-background-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，标签仍可读为 **MICA 27**，但字形边缘和瓶身高光都有变化。要试另一种配色，可以[打开 MICA 27 青绿色瓶身样例](https://minimaxh3.info/zh/minimax-h3-image?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme&utm_content=product_recolor#h3-example-product-recolor)，点击样例按钮，把同一张瓶图和实测提示词载入单张编辑草稿。
 
 把双镜头视频提示词交给 MiniMax H3 Image，会得到什么？在[同一张陶壶参考图的对照实测](https://minimaxh3.info/zh/blog/minimax-h3-image-video-prompt-to-still?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_readme)中，第一次编辑把两个视图并排画在一起。只要求把手特写时，画面变成了单一近景，但把手换到了壶身另一侧。教程附两次提交的完整提示词和结果图。
 
