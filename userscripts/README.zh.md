@@ -10,6 +10,8 @@
 2. 检查去掉首尾空白后的文本；若超长，缩短选区后重新打开菜单命令。
 3. 确认后，在工作台粘贴并核对文本。若管理器没有弹出复制成功提示，也可以先粘贴一次检查剪贴板。
 
+**试一张纯文字生成的流程图。** [MiniMax H3 Image 流程图实测](https://minimaxh3.info/zh/blog/minimax-h3-image-flowchart-labels-arrows?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_helper_docs&utm_content=flowchart)核对了一个 **1 PACK／2 SCAN／3 SHIP** 三步标签与两根向右箭头的样例。选中教程中的完整提示词，用助手检查并复制，再手动粘贴到 **Text to Image（文生图）／16:9／1 张**，无需参考图。生成前核对当前报价。结果是栅格 PNG，不是可编辑 SVG；重复运行的成功率未测。
+
 **先选输入图。** 助手只复制文字，不会带上图片。要从原图另开分支，请重新上传同一张原图；要接着已有结果修改，请在工作台对应结果上点继续编辑（**Edit this result**）。[三次肖像编辑实测](https://minimaxh3.info/zh/blog/minimax-h3-image-original-vs-previous-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_helper_docs&utm_content=edit_chain)对照了两条路径，G3 的深蓝扩到了衣领以外的肩部。这只是一次三编辑样例，不承诺同脸保持。
 
 下面是本站三参考图房间教程中实际提示词的一小段原文：

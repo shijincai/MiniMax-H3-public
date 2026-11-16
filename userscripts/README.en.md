@@ -10,6 +10,8 @@ With a userscript manager enabled, [install MiniMax H3 Image Prompt Helper](http
 2. Review the trimmed text. If it exceeds the limit, select a shorter passage and reopen the menu command.
 3. Confirm, then paste into the workspace and check the text before generating. Pasting also lets you check the clipboard if your manager shows no “Prompt copied” message.
 
+**Try a text-only flowchart.** The [MiniMax H3 Image flowchart walkthrough](https://minimaxh3.info/blog/minimax-h3-image-flowchart-labels-arrows?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_helper_docs&utm_content=flowchart) checks one sample with **1 PACK / 2 SCAN / 3 SHIP** and two right-pointing arrows. Select the tutorial’s complete prompt, use this helper to review and copy it, then manually paste it into **Text to Image / 16:9 / 1 image**, with no reference images. Check the current quote before generating. The result is a raster PNG, not an editable SVG; repeat-run success rates were not tested.
+
 **Choose the input image.** The helper copies text, not images. To branch from the original, upload the same original again; to continue an edit, click **Edit this result** on the intended workspace result. Our [three-edit portrait example](https://minimaxh3.info/blog/minimax-h3-image-original-vs-previous-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_helper_docs&utm_content=edit_chain) compares both paths; in G3, navy color spread beyond the collar into the shoulder area. This is one three-edit sample, not a promise of face consistency.
 
 For example, this short excerpt comes from our documented three-reference room tutorial:
