@@ -10,6 +10,8 @@
 2. 检查去掉首尾空白后的文本；若超长，缩短选区后重新打开菜单命令。
 3. 确认后，在工作台粘贴并核对文本。若管理器没有弹出复制成功提示，也可以先粘贴一次检查剪贴板。
 
+**先选输入图。** 助手只复制文字，不会带上图片。要从原图另开分支，请重新上传同一张原图；要接着已有结果修改，请在工作台对应结果上点继续编辑（**Edit this result**）。[三次肖像编辑实测](https://minimaxh3.info/zh/blog/minimax-h3-image-original-vs-previous-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_helper_docs&utm_content=edit_chain)对照了两条路径，G3 的深蓝扩到了衣领以外的肩部。这只是一次三编辑样例，不承诺同脸保持。
+
 下面是本站三参考图房间教程中实际提示词的一小段原文：
 
 ```text

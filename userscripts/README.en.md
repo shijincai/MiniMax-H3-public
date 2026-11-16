@@ -10,6 +10,8 @@ With a userscript manager enabled, [install MiniMax H3 Image Prompt Helper](http
 2. Review the trimmed text. If it exceeds the limit, select a shorter passage and reopen the menu command.
 3. Confirm, then paste into the workspace and check the text before generating. Pasting also lets you check the clipboard if your manager shows no “Prompt copied” message.
 
+**Choose the input image.** The helper copies text, not images. To branch from the original, upload the same original again; to continue an edit, click **Edit this result** on the intended workspace result. Our [three-edit portrait example](https://minimaxh3.info/blog/minimax-h3-image-original-vs-previous-edit?utm_source=github.com&utm_medium=referral&utm_campaign=h3_image_helper_docs&utm_content=edit_chain) compares both paths; in G3, navy color spread beyond the collar into the shoulder area. This is one three-edit sample, not a promise of face consistency.
+
 For example, this short excerpt comes from our documented three-reference room tutorial:
 
 ```text
