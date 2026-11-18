@@ -30,7 +30,7 @@
 
 No video editing skills, no software to install, no expensive GPUs. Just write a prompt and generate.
 
-> 🔗 **Try it now:** [https://minimaxh3.info](https://minimaxh3.info)
+> 🔗 [Open the MiniMax H3 video workspace](https://minimaxh3.info/#generator)
 
 ---
 

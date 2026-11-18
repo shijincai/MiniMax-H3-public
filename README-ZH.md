@@ -30,7 +30,7 @@
 
 无需视频剪辑技能、无需安装软件、无需昂贵显卡。写下提示词,即可生成。
 
-> 🔗 **立即体验：** [https://minimaxh3.info/zh](https://minimaxh3.info/zh)
+> 🔗 [打开 MiniMax H3 视频工作台](https://minimaxh3.info/zh#generator)
 
 ---
 
